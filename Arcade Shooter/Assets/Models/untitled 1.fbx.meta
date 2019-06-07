@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 723ce60fbcaf0334a8b85237fe6d56ef
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Button_Body
+    100002: Button_Pad
+    100004: Frame
+    100006: Glass
+    100008: Joystick_Body
+    100010: Joystick_Pad
+    100012: Joystick_Top
+    100014: Pad
+    100016: Pad_Bevel
+    100018: Point
+    100020: //RootNode
+    400000: Button_Body
+    400002: Button_Pad
+    400004: Frame
+    400006: Glass
+    400008: Joystick_Body
+    400010: Joystick_Pad
+    400012: Joystick_Top
+    400014: Pad
+    400016: Pad_Bevel
+    400018: Point
+    400020: //RootNode
+    2100000: No Name
+    2300000: Button_Body
+    2300002: Button_Pad
+    2300004: Frame
+    2300006: Glass
+    2300008: Joystick_Body
+    2300010: Joystick_Pad
+    2300012: Joystick_Top
+    2300014: Pad
+    2300016: Pad_Bevel
+    3300000: Button_Body
+    3300002: Button_Pad
+    3300004: Frame
+    3300006: Glass
+    3300008: Joystick_Body
+    3300010: Joystick_Pad
+    3300012: Joystick_Top
+    3300014: Pad
+    3300016: Pad_Bevel
+    4300000: Frame
+    4300002: Glass
+    4300004: Pad
+    4300006: Joystick_Body
+    4300008: Pad_Bevel
+    4300010: Joystick_Pad
+    4300012: Joystick_Top
+    4300014: Button_Pad
+    4300016: Button_Body
+    10800000: Point
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

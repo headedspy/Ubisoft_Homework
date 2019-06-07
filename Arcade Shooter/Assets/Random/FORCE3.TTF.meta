@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 47d83139ba3ba654ca6bf3c5b9ff911b
+timeCreated: 1526636189
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Force Majeure
+  fontNames:
+  - Force Majeure
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
